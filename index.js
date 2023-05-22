@@ -1,3 +1,4 @@
+//// Runs the application using imports from lib/
 const inquirer = require("inquirer");
 
 const questionPrompts = [
@@ -20,7 +21,7 @@ const questionPrompts = [
     {
         type: "list",
         message: "What shape would you like the logo to have",
-        choices: ["Circle", "MIT License", "Triangle", "Square"],
+        choices: ["Circle", "Triangle", "Square"],
         name: "logoShape",
     },
     {
@@ -33,6 +34,9 @@ const questionPrompts = [
 
 function init(){
     inquirer.prompt(questionPrompts).then((answers) => {
+
+        const shape = require('./lib/shapes.js');
+        const temp = shape.Shapes
 
     });
 
