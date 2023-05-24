@@ -52,7 +52,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ## Preview
 
-![alt text](/assets/images/WeatherHubPreview.gif)
+![alt text](/media/screenshot.png)
 
 ## Features
 
