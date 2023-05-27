@@ -18,10 +18,14 @@ The application prompts the user for input regarding the logo's text, text color
 
 ## Installation
 
-1. Download the application: You can either download the application from a website or clone it from a Git repository. If you're cloning it from a Git repository, you'll need to have Git installed on your computer.
-2. Extract the files: Once you have the application downloaded, extract the files from the zip folder. You can extract the files to any location on your computer.
-3. Open the application: Open the folder where you extracted the files, and look for the index.html file. Double-click on it to open it in your default web browser. You should now see the application running.
-
+1. Ensure you have Node.js installed on your machine. You can download it from the official website
+2. Download the application: You can either download the application from a website or clone it from a Git repository. If you're cloning it from a Git repository, you'll need to have Git installed on your computer.
+3. Extract the files: Once you have the application downloaded, extract the files from the zip folder. You can extract the files to any location on your computer.
+4. In the terminal or command prompt, navigate to the project's root directory. Run the following command to start the Node.js file:
+    ```
+    node index.js
+    ```
+    The Node.js file will now be executed, and you should see any output or logs in the console.
 
 ## User Story
 
