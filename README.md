@@ -25,7 +25,7 @@ The application prompts the user for input regarding the logo's text, text color
     ```
     node index.js
     ```
-    The Node.js file will now be executed, and you should see any output or logs in the console.
+5. The Node.js file will now be executed, and you should see any output or logs in the console.
 
 ## User Story
 
@@ -53,10 +53,16 @@ AND the output text "Generated logo.svg" is printed in the command line
 WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ```
+## Video Demo
+[View the video demo](https://drive.google.com/file/d/1imY6i55hNLN5l6dydpdcUIh50ov_8-n7/view?usp=share_link)
 
 ## Preview
 
 ![alt text](/media/screenshot.png)
+
+
+![alt text](/media/screenshot2.png)
+
 
 ## Features
 
