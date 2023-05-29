@@ -56,6 +56,8 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ## Video Demo
 [View the video demo](https://drive.google.com/file/d/1imY6i55hNLN5l6dydpdcUIh50ov_8-n7/view?usp=share_link)
 
+[View the updated video demo](https://drive.google.com/file/d/1SMqJPa__R6CxKcBt9iLQQAAdYiRSFhGb/view?usp=share_link)
+
 ## Preview
 
 ![alt text](/media/screenshot.png)
